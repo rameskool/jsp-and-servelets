@@ -19,9 +19,9 @@ Source Monitoring in netbeans:
     After starting the jar file from /starter/ClusterComputing.jar , you will see a GUI with two options : For now , only option 1 will work to compute the value of PI. For finding value of PI , you will be asked to enter no. of steps for finding value of PI. More steps will result in more threads and more time.
  
  5. Monitoring from web requires following steps.
-    a.Copy the fileprint.war file from /web_interface/dist/ to c:/Xampp/tomcat/webapps.
-    b.Open web browser and open localhost:8080/fileprint
-    c.Login using username:kool password:hunter    
+ a.Copy the fileprint.war file from /web_interface/dist/ to c:/Xampp/tomcat/webapps.
+ b.Open web browser and open localhost:8080/fileprint
+ c.Login using username:kool password:hunter    
 
 Information about cluster:
  All the informations , design patterns and usuage is contained in Cluster-Journal(acem).docx
