@@ -11,17 +11,15 @@ Source Monitoring in netbeans:
  
    JRE should be pre-installed.The running operating system should be Windows.
    Apace Tomcat server is essential to run the web interface.
-   
  1. Download the project from https://github.com/rameskool/jsp-and-servelets.git in ZIP or open in Desktop .
  2. Extract the zip file.
- 3. Run the jar file from /workerfile/ClusterComputing.jar. (To run the jar file folder lib is required) It runs the client which will perform works provided by the server.You can run more than one instant of worker for better performance. (Note: Worker runs in backgroud)
+ 3. Run the jar file from /workerfile/ClusterComputing.jar. (To run the jar file folder lib is required) It runs the client which will        perform works provided by the server.You can run more than one instant of worker for better performance. (Note: Worker runs in          backgroud)
  4. Run the jar file from /starter/ClusterComputing.jar.(To run the jar file folder lib is required).It runs the main server which provides a GUI feature for using the system.
     After starting the jar file from /starter/ClusterComputing.jar , you will see a GUI with two options : For now , only option 1 will work to compute the value of PI. For finding value of PI , you will be asked to enter no. of steps for finding value of PI. More steps will result in more threads and more time.
- 
- 5. Monitoring from web requires following steps.
- a.Copy the fileprint.war file from /web_interface/dist/ to c:/Xampp/tomcat/webapps.
- b.Open web browser and open localhost:8080/fileprint
- c.Login using username:kool password:hunter    
+ 5. Monitoring from web requires following steps.    
+ a.Copy the fileprint.war file from /web_interface/dist/ to c:/Xampp/tomcat/webapps.      
+ b.Open web browser and open localhost:8080/fileprint   
+ c.Login using username:kool password:hunter       
 
 Information about cluster:
  All the informations , design patterns and usuage is contained in Cluster-Journal(acem).docx
