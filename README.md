@@ -23,5 +23,5 @@ Source Monitoring in netbeans:
     b.Open web browser and open localhost:8080/fileprint
     c.Login using username:kool password:hunter    
 
-# Information about cluster:
- All the informations , design patterns and usuage is contained in a pptx file named SuperComputingJournal.pptx above.
+Information about cluster:
+ All the informations , design patterns and usuage is contained in Cluster-Journal(acem).docx
