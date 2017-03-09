@@ -1,5 +1,5 @@
 # jsp-and-servelets
-# Server Log Monitoring System with jsp 
+# Server Log Monitoring System with JSP 
 ![Cluster](/CLUSTER.png?raw=true )
 “Super Computing Using Cluster Network” is a vision to achieve super computation speed through the network of simple commercial computers easily available in the market. The amount of data is increasing at a rapid rate and the need to compute these data at faster rate is also high. It deals with the speed and accuracy that is at high demand in sectors that handle large amount of data at a time or for large and complex computation and simulation tasks. With the help of this system the need of high performance at low cost and easy availability has been dealt with. The System is based on self-made distributed architecture without the use of any special libraries. The architecture performs the tasks of job division, handles task queue and result queue, schedules the tasks and supervises the worker nodes. The salient features of our architecture are plug and play software framework, dynamic worker addition and fault tolerance in case of Node failure. These features also make our system reliable for handling large amount of data that needs to be processed at fast rate without error.
 
